@@ -1,4 +1,9 @@
-### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=novog93&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=novog93)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **NovoG93/NovoG93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
